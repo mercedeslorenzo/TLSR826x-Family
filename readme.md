@@ -1,4 +1,4 @@
-![header-telink]({{site.baseurl}}/header-telink.jpg)
+![header-telink](https://i.imgur.com/7U96dR0.jpg)
 
 
 TLSR826x family offers concurrent multi-protocol IoT solution at ISM 2.4GHz band, including Bluetooth Smart (BLE4.0 and BLE4.2), BLE Mesh, 6LoWPAN, Thread, Zigbee, RF4CE, HomeKit and 2.4GHz proprietary protocols. TLSR826x supports hardware OTA and multiple boot switching, allowing convenient product feature roll outs and upgrades, it provides 32-bit MCU, BLE/802.15.4/2.4G Radio, 16K/32KB SRAM, 128KB-512KB Flash, 14bit ADC with PGA, Analog and Digital Microphone, 6-channel PWM (2-channel IR), one quadrature decoder (QDEC), abundant GPIO interfaces, and multi-stage power management.
