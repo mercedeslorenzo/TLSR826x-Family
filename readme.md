@@ -25,3 +25,4 @@ TLSR826x family offers concurrent multi-protocol IoT solution at ISM 2.4GHz band
 | 2.4G+BLE Dual-Keyboard | TLSR8267      |                            | [SDK V2.0.4](http://wiki.telink-semi.cn/telink_shenzhen/dual_keyboard/826x/dual_km_8267.7z)           |                        |                                    |
 | 2.4G+BLE Dual-Mouse    | TLSR8261      |                            | [SDK V2.4.0](http://wiki.telink-semi.cn/telink_shenzhen/dual_mouse/826x/dual_mouse_8261.7z)           |                        |                                    |
 | BLE Generic(Mi)        | TLSR826x      |                            | SDK V2.1.0           |                        |                                    |
+![header-telink](https://i.imgur.com/7U96dR0.jpg)
