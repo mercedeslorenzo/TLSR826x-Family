@@ -1,6 +1,5 @@
 ← [Back to Menu](https://telinkgithub.github.io/Telink/ "Menu")
-
-![header-telink](https://i.imgur.com/7U96dR0.jpg)
+![header-telink](https://i.imgur.com/5kRG6CF.jpg)
 
 TLSR826x family offers concurrent multi-protocol IoT solution at ISM 2.4GHz band, including Bluetooth Smart (BLE4.0 and BLE4.2), BLE Mesh, 6LoWPAN, Thread, Zigbee, RF4CE, HomeKit and 2.4GHz proprietary protocols. TLSR826x supports hardware OTA and multiple boot switching, allowing convenient product feature roll outs and upgrades, it provides 32-bit MCU, BLE/802.15.4/2.4G Radio, 16K/32KB SRAM, 128KB-512KB Flash, 14bit ADC with PGA, Analog and Digital Microphone, 6-channel PWM (2-channel IR), one quadrature decoder (QDEC), abundant GPIO interfaces, and multi-stage power management.
 
@@ -26,5 +25,8 @@ TLSR826x family offers concurrent multi-protocol IoT solution at ISM 2.4GHz band
 | 2.4G+BLE Dual-Keyboard | TLSR8267      |                            | [SDK V2.0.4](http://wiki.telink-semi.cn/telink_shenzhen/dual_keyboard/826x/dual_km_8267.7z)           |                        |                                    |
 | 2.4G+BLE Dual-Mouse    | TLSR8261      |                            | [SDK V2.4.0](http://wiki.telink-semi.cn/telink_shenzhen/dual_mouse/826x/dual_mouse_8261.7z)           |                        |                                    |
 | BLE Generic(Mi)        | TLSR826x      |                            | SDK V2.1.0           |                        |                                    |
+
+← [View the Project on GitHub](https://github.com/TelinkGithub/TLSR8x5x-Family "Menu")
+
 
 ![header-telink](https://i.imgur.com/7U96dR0.jpg)
