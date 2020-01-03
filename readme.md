@@ -46,7 +46,7 @@ Download [TLSR8269 Datasheet](https://telinkgithub.github.io/Assets/03_TLSR826x-
 
 ## Recommended BLE module by 3rd party IDH
 
-![Recommended BLE module by 3rd party IDH]("https://telinkgithub.github.io/Assets/03_TLSR826x-Family/TLSR826x-Family_04_Recommended-BLE-module/20191106-164542.png")
+![Recommended BLE module by 3rd party IDH](https://telinkgithub.github.io/Assets/03_TLSR826x-Family/TLSR826x-Family_04_Recommended-BLE-module/20191106-164542.png)
 
 
 
