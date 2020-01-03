@@ -82,4 +82,4 @@ How to buy? Alibaba Online Shop [https://wi-linktech.en.alibaba.com/](https://wi
 ← [View the Project on GitHub](https://github.com/TelinkGithub/TLSR826x-Family "Menu")
 
 
-![header-telink](https://i.imgur.com/7U96dR0.jpg)
+![footer-telink](https://telinkgithub.github.io/Assets/General/footer.jpg)
