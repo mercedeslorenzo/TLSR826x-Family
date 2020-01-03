@@ -48,6 +48,35 @@ Download [TLSR8269 Datasheet](https://telinkgithub.github.io/Assets/03_TLSR826x-
 
 ![Recommended BLE module by 3rd party IDH](https://telinkgithub.github.io/Assets/03_TLSR826x-Family/TLSR826x-Family_04_Recommended-BLE-module/20191106-164542.png)
 
+The BLE module has passed FCC, SRRC and CE compliance, BQB certified (support up to Bluetooth 5.0).
+
+For more details please click [http://www.wi-linktech.com/index.php/en/ProductList/WLT8266BMG-76.html](http://www.wi-linktech.com/index.php/en/ProductList/WLT8266BMG-76.html)
+
+How to buy? Alibaba Online Shop [https://wi-linktech.en.alibaba.com/](https://wi-linktech.en.alibaba.com/)
+
+
+
+## Hardware Developing Tools
+
+[Antenna and PCB Circuit Design Guide](https://telinkgithub.github.io/Assets/03_TLSR826x-Family/TLSR826x-Family_05_Hardware-Developing-Tools/AN_16080500-E_Telink%20Antenna%20Design%20Guide.pdf)
+
+[826x Hardware Design Guide](https://telinkgithub.github.io/Assets/03_TLSR826x-Family/TLSR826x-Family_05_Hardware-Developing-Tools/AN_16101000-E_Telink%20Hardware%20Design%20Guide.pdf)
+
+[Suggestion for Coin Cell Battery application](https://telinkgithub.github.io/Assets/03_TLSR826x-Family/TLSR826x-Family_05_Hardware-Developing-Tools/AN_16122100-E_Suggestions%20for%20Application%20Design%20with%20Coin%20Cell%20Battery.pdf)
+
+[Wireless Product Certification Guide](https://telinkgithub.github.io/Assets/03_TLSR826x-Family/TLSR826x-Family_05_Hardware-Developing-Tools/AN_17091400-E_Wireless%20Product%20Certification%20Guide.pdf)
+
+[PCB layout Guide](https://telinkgithub.github.io/Assets/03_TLSR826x-Family/TLSR826x-Family_05_Hardware-Developing-Tools/PCB%20layout%20guideline.pdf)
+
+
+## Manufacture Support Tools
+
+[Mass Production Testplan](https://telinkgithub.github.io/Assets/03_TLSR826x-Family/TLSR826x-Family_06_Manufacture-Support-Tools/AN_16071800-E_Telink%20Mass%20Production%20Program%20And%20Test%20Plan.pdf)
+
+[Telink Testbench 1x6 User Guide](https://telinkgithub.github.io/Assets/03_TLSR826x-Family/TLSR826x-Family_06_Manufacture-Support-Tools/AN_18071200-E_Assembly%20and%20Maintenance%20Manual%20for%20Telink%20BLE%201x6%20Test%20System%203.2.pdf)
+
+[Telink Testbench 1x1 User Guide](https://telinkgithub.github.io/Assets/03_TLSR826x-Family/TLSR826x-Family_06_Manufacture-Support-Tools/AN_16052600-E_Assembly%20and%20Maintenance%20Manual%20for%20Telink%20BLE%201x1%20Test%20System%202.1.pdf)
+
 
 
 ← [View the Project on GitHub](https://github.com/TelinkGithub/TLSR826x-Family "Menu")
